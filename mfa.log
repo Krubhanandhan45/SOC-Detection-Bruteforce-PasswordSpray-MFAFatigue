@@ -1,0 +1,7 @@
+2025-12-04T11:30:01Z user=testuser action=MFA_Push status=Sent reason=LoginAttempt ip=127.0.0.1
+2025-12-04T11:30:05Z user=testuser action=MFA_Push status=Denied reason=UserIgnored ip=127.0.0.1
+2025-12-04T11:30:10Z user=testuser action=MFA_Push status=Denied reason=UserIgnored ip=127.0.0.1
+2025-12-04T11:30:15Z user=testuser action=Denied reason=UserIgnored ip=127.0.0.1
+2025-12-04T11:30:20Z user=testuser action=MFA_Push status=Denied reason=UserIgnored ip=127.0.0.1
+2025-12-04T11:30:25Z user=testuser action=MFA_Push status=Approved reason=UserAccepted ip=127.0.0.1
+
